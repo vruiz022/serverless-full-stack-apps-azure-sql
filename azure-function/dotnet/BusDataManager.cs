@@ -99,7 +99,7 @@ namespace GetBusData
                     ["Position"] = new JObject
                     {
                         ["Latitude"] = 47.61705102765316,//b.Vehicle.Position.Latitude,
-                        ["Longitude"] = -122.14291865504012,//b.Vehicle.Position.Longitude
+                        ["Longitude"] = -122.14291865504012,//b.Vehicle.Position.Longitude -upd
                     },
                     ["TimestampUTC"] = Utils.FromPosixTime(b.Vehicle.Timestamp)
                 };
